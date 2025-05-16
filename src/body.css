@@ -1,0 +1,5 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(#232630,#050507)
+}
+/*Não funciona em index.css e não sugere as propriedades quando digita*/
