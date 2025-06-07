@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+### Este projeto é uma parte do curso que estou estudando de React com TS na Udemy. 
+Link do curso: https://www.udemy.com/share/108Mm63@cZtcCJSPbaIJuBe-cfqqBTD4o1uppSwgf7rj-hR4pGy7RbPGrXUtqvZcQeHDov4YdQ==/
